@@ -1,9 +1,10 @@
-# Full Stack Node => React
+# Full Stack 
 
-This is an example in how to mix:
 
+## Technologies:
 - Node.js + Express.js
 - React.js
+- Postgresql
 
 
 ---------------------------------------
