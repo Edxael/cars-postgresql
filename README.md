@@ -6,6 +6,5 @@
 - React.js
 - Postgresql
 
-
 ---------------------------------------
 by: Edmundo Rubio.
