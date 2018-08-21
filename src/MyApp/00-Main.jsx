@@ -32,7 +32,7 @@ export default class extends React.Component{
 
                     <br/>
                     <hr/>
-                    <div>By: Edmundo</div>
+                    <div>By: Edmundo Rubio</div>
             
                 </div>
             </HashRouter>
